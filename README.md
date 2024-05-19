@@ -1,6 +1,4 @@
 # Tech Trek
-<img />
-![Ekran görüntüsü 2024-05-19 185422](https://github.com/Zyzz294/techtrek/assets/96903120/5842f6d8-b355-461e-b267-fd85271360ce)
 
 
 
