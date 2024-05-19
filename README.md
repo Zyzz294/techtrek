@@ -2,6 +2,7 @@
 ![homepage](https://github.com/Zyzz294/techtrek/assets/96903120/f5bc30f9-f8b9-4ddb-ac08-c5d684cf680f)
 
 
+![news](https://github.com/Zyzz294/techtrek/assets/96903120/8492f8c8-9413-4b71-8738-5523e43d9a9c)
 
 https://github.com/Zyzz294/techtrek/assets/96903120/babee8fc-fbc1-4733-bc6c-da6fc4c5d71e
 
