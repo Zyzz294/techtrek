@@ -1,5 +1,5 @@
 # Tech Trek
-https://github.com/Zyzz294/techtrek/assets/96903120/6380e9ec-92d6-4b01-b1ee-a3a9efde6c96
+<img src="https://github.com/Zyzz294/techtrek/assets/96903120/6380e9ec-92d6-4b01-b1ee-a3a9efde6c96"/>
 https://github.com/Zyzz294/techtrek/assets/96903120/749a042f-8474-4062-9e11-6ce63e2133d6
 https://github.com/Zyzz294/techtrek/assets/96903120/d6a70787-7c3d-4f4d-a20b-79b6d25968f6
 https://github.com/Zyzz294/techtrek/assets/96903120/c8578007-2bf8-469e-900a-811b082a4660
