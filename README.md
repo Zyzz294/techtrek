@@ -4,6 +4,8 @@
 
 ![news](https://github.com/Zyzz294/techtrek/assets/96903120/8492f8c8-9413-4b71-8738-5523e43d9a9c)
 
+![phone](https://github.com/Zyzz294/techtrek/assets/96903120/f9822462-44a5-48dc-9d9e-574ffa8c6dbe)
+
 https://github.com/Zyzz294/techtrek/assets/96903120/babee8fc-fbc1-4733-bc6c-da6fc4c5d71e
 
 
