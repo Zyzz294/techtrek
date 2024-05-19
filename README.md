@@ -6,6 +6,11 @@
 
 ![phone](https://github.com/Zyzz294/techtrek/assets/96903120/f9822462-44a5-48dc-9d9e-574ffa8c6dbe)
 
+![Preorder](https://github.com/Zyzz294/techtrek/assets/96903120/942f7eae-e3c0-49d1-8ba7-29ff8aa09363)
+
+![contact info](https://github.com/Zyzz294/techtrek/assets/96903120/6ce3590b-cdd7-43df-8198-33a93bdb38db)
+
+
 https://github.com/Zyzz294/techtrek/assets/96903120/babee8fc-fbc1-4733-bc6c-da6fc4c5d71e
 
 
