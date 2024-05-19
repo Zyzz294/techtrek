@@ -1,4 +1,9 @@
 # Tech Trek
+## TechTrek is a leading innovative technology company. We specialize in developing and selling innovative gadgets and devices that make everyday life easier and more fun. Our team of inventors and engineers is constantly working to create new products that incorporate the latest technological advances to improve the lives of our customers.
+
+The app is deployed using Vercel at [TechTrek](https://techtrek-nine.vercel.app/)
+
+
 ![homepage](https://github.com/Zyzz294/techtrek/assets/96903120/f5bc30f9-f8b9-4ddb-ac08-c5d684cf680f)
 
 
