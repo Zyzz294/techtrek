@@ -1,4 +1,5 @@
 # Tech Trek
+![homepage](https://github.com/Zyzz294/techtrek/assets/96903120/f5bc30f9-f8b9-4ddb-ac08-c5d684cf680f)
 
 
 
