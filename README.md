@@ -8,3 +8,7 @@ The app is deployed using Vercel at [InnovaTech](https://innovatech-ten.vercel.a
 ![vr4](https://github.com/Zyzz294/techtrek/assets/96903120/c7cf232c-f8d8-4f55-96bf-ca6634fd88b0)
 ![vr3](https://github.com/Zyzz294/techtrek/assets/96903120/d46aff7d-adce-44fe-93f7-69e0333384b9)
 ![vr2](https://github.com/Zyzz294/techtrek/assets/96903120/cbe432e1-fa6d-4b14-8844-512138db5493)
+
+
+https://github.com/Zyzz294/techtrek/assets/96903120/a8a1e831-c780-430f-bdce-52f6a9f79d93
+
