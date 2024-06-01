@@ -4,7 +4,7 @@ import img1 from '../assets/img1.avif'
 const NewsText = () => {
   return (
     <>
-    <h1 className='m-5 .justify-content-center' id='news'>TechTrek News</h1>
+    <h1 className='m-5 .justify-content-center' id='news'>Innovatech News</h1>
   <div class="card m-5">
     <div class="card-body">
       <h5 class="card-title">Technology</h5>

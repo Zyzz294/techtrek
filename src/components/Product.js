@@ -14,7 +14,7 @@ const Product = () => {
     <Container class="container text-center">
       <Row class="row">
         <Col class="col-md-8">
-        <ReactPlayer url='https://www.youtube.com/watch?v=xqyUdNxWazA' controls={true}/>
+        <ReactPlayer url='https://www.youtube.com/watch?v=IY4x85zqoJM' controls={true}/>
         </Col>
         <Col class="col-md-4">
         <p>
@@ -28,11 +28,11 @@ const Product = () => {
     </Container>
         <div className='d-flex justify-content-center align-items-center'>
         <Card style={{ width: '18rem', margin:'3rem'}} id='product'>
-        <Card.Img variant="top" src="https://images.unsplash.com/photo-1523206489230-c012c64b2b48?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+        <Card.Img variant="top" src="https://images.unsplash.com/photo-1710419364928-c4049049211f?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
         <Card.Body>
-          <Card.Title>TechTrek X</Card.Title>
+          <Card.Title>Innovatech VR Pro </Card.Title>
           <Card.Text>
-          This Smarphone is TechTrek's Latest Technology <br/>
+          This Smarphone is Innovatech's Latest Technology <br/>
           $999 
           </Card.Text>
           <Button variant="primary" href='#order'>

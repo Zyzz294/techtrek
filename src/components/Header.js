@@ -9,7 +9,7 @@ function Header() {
     return (
       <Navbar expand="lg" className="bg-body-tertiary">
         <Container fluid>
-          <Navbar.Brand href="#">TechTrek</Navbar.Brand>
+          <Navbar.Brand href="#">Innovatech</Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
             <Nav
